@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# Modelos pesados
+modelos/*.pt
+
+# Saídas do sistema
+frames_salvos/
+crops/
+
+# Imagens (permitir apenas exemplos)
+*.jpg
+*.png
+!imagens_teste/
+!imagens_teste/*.png
