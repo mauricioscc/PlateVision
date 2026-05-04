@@ -10,7 +10,7 @@
 
 ---
 
-Sistema de **detecção de placas veiculares em tempo real** utilizando **YOLOv8** e **OpenCV**.
+Sistema de Detecção de Placas Veiculares em Tempo Real utilizando YOLOv8 e OpenCV
 
 ---
 
