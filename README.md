@@ -12,6 +12,12 @@
 
 Real-time **license plate detection system** using **YOLOv8** and **OpenCV**.
 
+## ⚡ Performance
+
+- Real-time processing
+- Optimized for low memory usage
+- Stable execution using CPU mode
+
 ---
 
 ## 📸 Examples
