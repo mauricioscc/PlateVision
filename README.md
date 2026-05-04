@@ -10,7 +10,7 @@
 
 ---
 
-Real-time **license plate detection system** using **YOLOv8** and **OpenCV**.
+Real-time License Plate Detection using YOLOv8 and OpenCV
 
 ---
 
