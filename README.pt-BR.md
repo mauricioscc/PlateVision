@@ -18,10 +18,13 @@ Sistema de **detecção de placas veiculares em tempo real** utilizando **YOLOv8
 
 ### Detecção em cenários reais
 
-![Exemplo 1](frames_salvos/deteccao_20260504_115923.png)
-![Exemplo 2](frames_salvos/deteccao_20260428_183140.png)
-![Exemplo 3](frames_salvos/deteccao_20260504_115840.png)
-![Example 4](frames_salvos/deteccao_20260504_115857.jpg)
+<p align="center">
+  <img src="frames_salvos/deteccao_20260428_183140.png" width="30%">
+  <img src="frames_salvos/deteccao_20260504_115923.png" width="30%">
+  <img src="frames_salvos/deteccao_20260504_115857.jpg" width="30%">
+  <img src="frames_salvos/deteccao_20260504_115840.png" width="30%">
+  <img src="frames_salvos/deteccao_20260428_183140.png" width="30%">
+</p>
 
 ---
 
@@ -35,6 +38,18 @@ Sistema de **detecção de placas veiculares em tempo real** utilizando **YOLOv8
   * frames anotados
 * ⚡ Execução otimizada (CPU/GPU)
 * 🧠 Controle de memória para evitar travamentos
+
+## ⚡ Performance
+
+- Processamento em tempo real
+- Otimizado para baixo uso de memória
+- Execução estável usando o modo CPU ( --cpu)
+
+## 📊 Exemplo de Saída
+
+- Detecção de caixa delimitadora
+- Exibição de pontuação de confiança
+- Extração automática de recorte
 
 ---
 
@@ -96,10 +111,11 @@ python platevision.py --jogo --cpu
 
 ## ⌨️ Controles
 
-|ㅤTeclaㅤ| Açãoㅤㅤㅤㅤ|  
-|ㅤ------- | ----------------|  
-ㅤQㅤㅤ~ㅤSair ㅤㅤㅤ  
-ㅤSㅤㅤ ~ㅤSalvar frame
+|Teclaㅤㅤ| Açãoㅤㅤㅤㅤㅤㅤㅤ|  
+|-------- | -------------------------|  
+ㅤQㅤㅤ|ㅤSair ㅤㅤㅤㅤㅤㅤㅤ  
+ㅤSㅤㅤ |ㅤSalvar frame atualㅤ  
+
 
 ---
 
