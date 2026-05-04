@@ -12,22 +12,18 @@
 
 Real-time **license plate detection system** using **YOLOv8** and **OpenCV**.
 
-## ⚡ Performance
-
-- Real-time processing
-- Optimized for low memory usage
-- Stable execution using CPU mode
-
 ---
 
 ## 📸 Examples
 
 ### Detection in real scenarios
 
-![Example 1](frames_salvos/deteccao_20260428_183140.png)
-![Example 2](frames_salvos/deteccao_20260504_115923.png)
-![Example 3](frames_salvos/deteccao_20260504_115857.jpg)
-![Example 4](frames_salvos/deteccao_20260504_120052.png)
+<p align="center">
+  <img src="frames_salvos/deteccao_20260428_183140.png" width="45%">
+  <img src="frames_salvos/deteccao_20260504_115923.png" width="45%">
+  <img src="frames_salvos/deteccao_20260504_115857.jpg" width="45%">
+  <img src="frames_salvos/deteccao_20260504_120052.png" width="45%">
+</p>
 
 ---
 
@@ -41,6 +37,18 @@ Real-time **license plate detection system** using **YOLOv8** and **OpenCV**.
   * annotated frames
 * ⚡ Optimized for stable execution (CPU/GPU)
 * 🧠 Memory management to prevent crashes
+
+## ⚡ Performance
+
+- Real-time processing
+- Optimized for low memory usage
+- Stable execution using CPU mode
+
+## 📊 Example Output
+
+- Bounding box detection
+- Confidence score display
+- Automatic crop extraction
 
 ---
 
@@ -105,8 +113,8 @@ python platevision.py --jogo --cpu
 
 |Keyㅤㅤ| Actionㅤㅤㅤㅤㅤㅤㅤ|  
 |-------- | -------------------------|  
-ㅤQㅤㅤ~ㅤQuit ㅤㅤㅤㅤㅤㅤㅤ  
-ㅤSㅤㅤ ~ㅤSave current frameㅤ  
+ㅤQㅤㅤ|ㅤQuit ㅤㅤㅤㅤㅤㅤㅤ  
+ㅤSㅤㅤ |ㅤSave current frameㅤ  
 
 
 ---
@@ -157,6 +165,6 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by **Maurício Santos**
+Developed by **Maurício Santos**  **-** [LinkedIn](https://www.linkedin.com/in/mauriciosantosc/)
 
 ---
